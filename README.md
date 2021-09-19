@@ -301,3 +301,12 @@ You are supposed to know how to do it, if you have forgotten - refer to [Projec
 Your Sercurity group shall look like this:
 
 ![](./images/open_port_3300.png)
+
+Now you can access our Book Register web application from the Internet with a browser using Public IP address or Public DNS name.
+
+Quick reminder how to get your server’s Public IP and public DNS name:
+
+1. You can find it in your AWS web console in EC2 details
+2. Run `curl -s http://169.254.169.254/latest/meta-data/public-ipv4` for Public IP address or `curl -s http://169.254.169.254/latest/meta-data/public-hostname` for Public DNS name.
+
+This is how your Web Book Register Application will look like in browser:
