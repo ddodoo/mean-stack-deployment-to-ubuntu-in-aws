@@ -310,3 +310,5 @@ Quick reminder how to get your server’s Public IP and public DNS name:
 2. Run `curl -s http://169.254.169.254/latest/meta-data/public-ipv4` for Public IP address or `curl -s http://169.254.169.254/latest/meta-data/public-hostname` for Public DNS name.
 
 This is how your Web Book Register Application will look like in browser:
+
+![](./images/book_register.JPG)
