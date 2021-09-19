@@ -312,3 +312,5 @@ Quick reminder how to get your server’s Public IP and public DNS name:
 This is how your Web Book Register Application will look like in browser:
 
 ![](./images/book_register.JPG)
+
+You have now completed all ‘PBL Progressive’ projects and are ready to move on to more complex
