@@ -167,7 +167,7 @@ var bookSchema = mongoose.Schema( {
 var Book = mongoose.model('Book', bookSchema);
 module.exports = mongoose.model('Book', bookSchema);`
 
-# **Step 4 - Access the routes with [AngularJS](https://angularjs.org/)**
+<!-- # **Step 4 - Access the routes with [AngularJS](https://angularjs.org/)**
 
 AngularJS provides a web framework for creating dynamic views in your web applications. In this tutorial, we use AngularJS to connect our web page with Express and perform actions on our book register.
 
@@ -296,7 +296,7 @@ It shall return an HTML page, it is hardly readable in the CLI, but we can also 
 
 For this - you need to open TCP port 3300 in your AWS Web Console for your EC2 Instance.
 
-You are supposed to know how to do it, if you have forgotten - refer to [Project 1](https://starter-pbl.darey.io/en/latest/) (Step 1 — Installing Apache and Updating the Firewall)
+You are supposed to know how to do it, if you have forgotten - refer to [Project 1](https://starter-pbl.darey.io/en/latest/) (Step 1 — Installing Apache and Updating the Firewall) -->
 
 Your Sercurity group shall look like this:
 
